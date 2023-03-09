@@ -9,5 +9,5 @@ spec:
   project: default
   source:
     path: apps
-    repoURL: https://github.com/<username>/intro-argo-cd-tutorial # Update to your repo URL.
+    repoURL: https://github.com/jim-hill-r/scale20x-intro-argo-cd-tutorial # Update to your repo URL.
     targetRevision: HEAD
